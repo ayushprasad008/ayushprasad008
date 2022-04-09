@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Prasad</h1>
-<h3 align="center">A passionate competitive programmer and frontend geveloper</h3>
+<h3 align="center">A passionate competitive programmer and frontend developer</h3>
 
 - 🔭 I’m currently working on **Data Science**
 
