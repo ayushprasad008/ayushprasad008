@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Data Structure**
+- 💬 Ask me about **Data Structure and Algorithms**
 
 - 📫 How to reach me **ayushprasad0808@gmail.com**
 
-- ⚡ Fun fact **Procastinator but complete things before deadline**
+- ⚡ Fun fact :**Procastinator but complete things before deadline**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
